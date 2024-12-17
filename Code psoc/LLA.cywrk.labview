@@ -13,7 +13,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="LLA\Partie_3\Partie_3.cydwr\Pins">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="LLA\Partie_3\Source Files\main.c">
 <ExpandedNodeIds>
 <v>LLA</v>
 <v>LLA\Partie_1</v>
@@ -32,13 +32,6 @@
 <v>LLA\Partie_3\Source Files</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
-<v>LLA\Partie_1\Partie_1.cydwr</v>
-<v>LLA\Partie_1\Partie_1.cydwr\Pins</v>
-<v>LLA\Partie_1\Partie_1.cydwr\Analog</v>
-<v>LLA\Partie_1\Partie_1.cydwr\DMA</v>
-<v>LLA\Partie_1\Partie_1.cydwr\Clocks</v>
-<v>LLA\Partie_1\Partie_1.cydwr\Interrupts</v>
-<v>LLA\Partie_1\Partie_1.cydwr\System</v>
 <v>LLA\Partie_1\Partie_1.cydwr\Directives</v>
 <v>LLA\Partie_1\Partie_1.cydwr\Flash Security</v>
 <v>LLA\Partie_1\Header Files</v>
@@ -70,6 +63,13 @@
 <v>LLA\Partie_3\Partie_3.cydwr\Clocks</v>
 <v>LLA\Partie_3\Partie_3.cydwr\Interrupts</v>
 <v>LLA\Partie_3\Partie_3.cydwr\System</v>
+<v>LLA\Partie_3\Partie_3.cydwr\Directives</v>
+<v>LLA\Partie_3\Partie_3.cydwr\Flash Security</v>
+<v>LLA\Partie_3\Header Files</v>
+<v>LLA\Partie_3\Header Files\cyapicallbacks.h</v>
+<v>LLA\Partie_3\Source Files</v>
+<v>LLA\Partie_3\Source Files\main.c</v>
+<v>LLA\Partie_3\Generated_Source</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="LLA">
@@ -270,13 +270,41 @@
 <v>LLA\Partie_1\PSoC 4 Architecture TRM</v>
 <v>LLA\Partie_1\PSoC 4200M Family Datasheet</v>
 <v>LLA\Partie_1\System Reference Guides</v>
+<v>LLA\Partie_1\System Reference Guides\cy_boot_v6_0</v>
+<v>LLA\Partie_1\System Reference Guides\cy_dmac_v1_10</v>
+<v>LLA\Partie_1\System Reference Guides\cy_lfclk_v1_20</v>
+<v>LLA\Partie_1\cy_clock_v2_20.pdf</v>
+<v>LLA\Partie_1\cy_pins_v2_20</v>
+<v>LLA\Partie_1\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>LLA\Partie_1\TCPWM_P4_v2_10.pdf</v>
 <v>LLA\Partie_2</v>
 <v>LLA\Partie_2\PSoC 4 Architecture TRM</v>
 <v>LLA\Partie_2\PSoC 4200M Family Datasheet</v>
 <v>LLA\Partie_2\System Reference Guides</v>
+<v>LLA\Partie_2\System Reference Guides\cy_boot_v6_0</v>
+<v>LLA\Partie_2\System Reference Guides\cy_dmac_v1_10</v>
+<v>LLA\Partie_2\System Reference Guides\cy_lfclk_v1_20</v>
+<v>LLA\Partie_2\cy_clock_v2_20.pdf</v>
+<v>LLA\Partie_2\cy_isr_v1_70.pdf</v>
+<v>LLA\Partie_2\cy_pins_v2_20.pdf</v>
+<v>LLA\Partie_2\Timer_v2_80.pdf</v>
+<v>LLA\Partie_2\ZeroTerminal.pdf</v>
 <v>LLA\Partie_3\PSoC 4 Architecture TRM</v>
 <v>LLA\Partie_3\PSoC 4200M Family Datasheet</v>
 <v>LLA\Partie_3\System Reference Guides</v>
+<v>LLA\Partie_3\System Reference Guides\cy_boot_v6_0</v>
+<v>LLA\Partie_3\System Reference Guides\cy_dmac_v1_10</v>
+<v>LLA\Partie_3\System Reference Guides\cy_lfclk_v1_20</v>
+<v>LLA\Partie_3\ADC_SAR_SEQ_P4_v2_50.pdf</v>
+<v>LLA\Partie_3\cy_clock_v2_20.pdf</v>
+<v>LLA\Partie_3\cy_isr_v1_70.pdf</v>
+<v>LLA\Partie_3\cy_pins_v2_20</v>
+<v>LLA\Partie_3\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>LLA\Partie_3\OpAmp_P4_v1_20.pdf</v>
+<v>LLA\Partie_3\SCB_P4_v4_0.pdf</v>
+<v>LLA\Partie_3\TCPWM_P4_v2_10.pdf</v>
+<v>LLA\Partie_3\Timer_v2_80.pdf</v>
+<v>LLA\Partie_3\ZeroTerminal.pdf</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>LLA</v>
@@ -285,6 +313,14 @@
 <v>LLA\Partie_2\PSoC 4 Architecture TRM</v>
 <v>LLA\Partie_2\PSoC 4200M Family Datasheet</v>
 <v>LLA\Partie_2\System Reference Guides</v>
+<v>LLA\Partie_2\System Reference Guides\cy_boot_v6_0</v>
+<v>LLA\Partie_2\System Reference Guides\cy_dmac_v1_10</v>
+<v>LLA\Partie_2\System Reference Guides\cy_lfclk_v1_20</v>
+<v>LLA\Partie_2\cy_clock_v2_20.pdf</v>
+<v>LLA\Partie_2\cy_isr_v1_70.pdf</v>
+<v>LLA\Partie_2\cy_pins_v2_20.pdf</v>
+<v>LLA\Partie_2\Timer_v2_80.pdf</v>
+<v>LLA\Partie_2\ZeroTerminal.pdf</v>
 <v>LLA\Partie_3</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
@@ -300,15 +336,10 @@
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
 <OpenDocs>
-<name v=".\Partie_3.cydsn\Partie_3.cydwr" />
 <name v=".\Partie_3.cydsn\TopDesign\TopDesign.cysch" />
-<name v=".\Partie_3.cydsn\main.c" />
-<name v=".\Partie_1.cydsn\TopDesign\TopDesign.cysch" />
-<name v=".\Partie_1.cydsn\main.c" />
-<name v=".\Partie_1.cydsn\Partie_1.cydwr" />
-<name v=".\Partie_2.cydsn\TopDesign\TopDesign.cysch" />
-<name v=".\Partie_2.cydsn\cyapicallbacks.h" />
 <name v=".\Partie_2.cydsn\Partie_2.cydwr" />
+<name v=".\Partie_3.cydsn\Partie_3.cydwr" />
+<name v=".\Partie_3.cydsn\main.c" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -316,7 +347,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1152, 674" SelectedTabbedMdiWindow="2272e5e8-5977-4de4-aa27-2bc45b2930d9"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="8e313672-3071-4c91-90bc-61468cd91f88" /><DocumentWindow Key="C:\Users\labview\Desktop\MC60 - partie 2\TP1 - 1er\LLA\Partie_3.cydsn\Partie_3.cydwr" Guid="2272e5e8-5977-4de4-aa27-2bc45b2930d9" /><DocumentWindow Key="C:\Users\labview\Desktop\MC60 - partie 2\TP1 - 1er\LLA\Partie_3.cydsn\TopDesign\TopDesign.cysch" Guid="4a4a841a-c5e6-4ec8-ad05-9577596fcd6d" /><DocumentWindow Key="C:\Users\labview\Desktop\MC60 - partie 2\TP1 - 1er\LLA\Partie_3.cydsn\main.c" Guid="695eddd3-525d-43d6-9e56-9b6b51685adc" /><DocumentWindow Key="C:\Users\labview\Desktop\MC60 - partie 2\TP1 - 1er\LLA\Partie_1.cydsn\TopDesign\TopDesign.cysch" Guid="6bbab13c-45f3-4300-be0f-73e0ce977c64" /><DocumentWindow Key="C:\Users\labview\Desktop\MC60 - partie 2\TP1 - 1er\LLA\Partie_1.cydsn\main.c" Guid="1f02b551-6b8b-4083-8882-81d2f4034e30" /><DocumentWindow Key="C:\Users\labview\Desktop\MC60 - partie 2\TP1 - 1er\LLA\Partie_1.cydsn\Partie_1.cydwr" Guid="6567296e-ef49-4a4d-bfb2-1e1fd4d60b22" /><DocumentWindow Key="C:\Users\labview\Desktop\MC60 - partie 2\TP1 - 1er\LLA\Partie_2.cydsn\TopDesign\TopDesign.cysch" Guid="203d39b7-1319-420b-b3fe-0faee61a611c" /><DocumentWindow Key="C:\Users\labview\Desktop\MC60 - partie 2\TP1 - 1er\LLA\Partie_2.cydsn\cyapicallbacks.h" Guid="7fea200f-5072-49f0-8003-90f53b40632e" /><DocumentWindow Key="C:\Users\labview\Desktop\MC60 - partie 2\TP1 - 1er\LLA\Partie_2.cydsn\Partie_2.cydwr" Guid="76529d99-ed33-41b6-a2ec-598b1ce0eb31" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1016, 674" SelectedTabbedMdiWindow="2b9a456c-f650-4505-9ad1-4968cb4fc689"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="8e313672-3071-4c91-90bc-61468cd91f88" /><DocumentWindow Key="C:\Users\labview\Documents\GitHub\MC60-TP1-PSoC\Code psoc\Partie_3.cydsn\TopDesign\TopDesign.cysch" Guid="23ffecc8-4700-4fd7-a5bc-ab90f175386d" /><DocumentWindow Key="C:\Users\labview\Documents\GitHub\MC60-TP1-PSoC\Code psoc\Partie_2.cydsn\Partie_2.cydwr" Guid="f365af1d-7161-485f-9477-25744e5abb75" /><DocumentWindow Key="C:\Users\labview\Documents\GitHub\MC60-TP1-PSoC\Code psoc\Partie_3.cydsn\Partie_3.cydwr" Guid="2cc046e0-702d-4cc7-97f7-61bca86dd6ff" /><DocumentWindow Key="C:\Users\labview\Documents\GitHub\MC60-TP1-PSoC\Code psoc\Partie_3.cydsn\main.c" Guid="2b9a456c-f650-4505-9ad1-4968cb4fc689" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="Debug" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>

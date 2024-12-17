@@ -45,6 +45,7 @@ int main(void)
     PWM_WritePeriod(PERIODE);
     PWM_WriteCompare(0);
     
+    PWM_Start();
     
     ADC_Start();                //Initialise l'ADC et le mets sous tension
     
