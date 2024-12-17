@@ -1,0 +1,8 @@
+C:\Users\labview\Desktop\MC60 - partie 2\TP1 - 1er\LLA\Partie_1.cydsn\Partie_1.cyprj|9cf50c94-ade5-4ecc-836a-85839c1d2004
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|483dbb9a-3ffb-4159-8b74-0d1834e0f06d
+C:\Users\labview\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|a8a7b6f3-764c-411c-9edb-9b7627efb619
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|b978ee4f-985d-4703-8fc5-ada37605663a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|a837d98d-e796-414a-9a12-bf20d172018e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|a9119f1d-1ed6-4604-8e93-81fb2bbc9273
+C:\Users\labview\Desktop\MC60 - partie 2\TP1 - 1er\LLA\Partie_2.cydsn\Partie_2.cyprj|88038307-4bbb-43de-8cd3-daa744bed827
+C:\Users\labview\Desktop\MC60 - partie 2\TP1 - 1er\LLA\Partie_3.cydsn\Partie_3.cyprj|88ea809a-5a6a-464b-b64f-26f6f517d5c1

@@ -1,0 +1,8 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\dev\psoc4\PSoC4AnalogDevice\psoc4arch.cydsn\psoc4arch.cyprj|71319e38-f7a7-4b23-9a72-ac26318724c3
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|4e99eb85-77ae-40d3-b05a-cfe8210572c4
+C:\Users\labview\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|ac41699d-4f63-4427-a156-b514267d97fb
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|47ecf7f0-6773-4ede-9c9e-4a6d88a28eaa
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|ea77018e-35be-4f51-9145-52dfad6d8e98
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|ff0b2844-b2b8-4665-9be5-c4571b7cb0fc
+C:\Users\labview\Desktop\MC60 - partie 2\TP1 - 1er\LLA\Design01.cydsn\Design01.cyprj|84cb877c-d8ba-4d93-a52e-31406b297b27
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|cc11b22d-e8c3-405d-8e3b-0a00f79c09ff
